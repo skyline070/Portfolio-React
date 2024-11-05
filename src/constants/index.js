@@ -34,7 +34,7 @@ export const PROJECTS = [
     description:
       "Developed my portfolio using HTML, React, and Tailwind CSS to showcase my skills, projects, and experiences. Leveraging the power of React for a dynamic user interface and Tailwind CSS for sleek, responsive design, this portfolio reflects my expertise in front-end development and my commitment to creating visually appealing and highly functional web applications.",
     technologies: ["HTML", "Javascript", "Tailwind", "React"],
-    link : 'https://github.com/muskaan-1801/react-portfolio'
+    link : 'https://github.com/skyline070/Portfolio-React'
   },
   {
     title: "Book App",
